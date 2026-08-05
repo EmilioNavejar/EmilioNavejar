@@ -142,20 +142,8 @@ Simulador inmersivo para prácticas de laboratorio desarrollado en entorno de re
 ## Idiomas
 
 - **Español:** Nativo
-- **Inglés:** Avanzado (C1)
-- **Alemán:** Básico
-
+- **Inglés:** Avanzado (b1)
 ---
-
-## Estadísticas
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EmilioNavejar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioNavejar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
----
-
 ## En lo que me enfoco
 
 - Desarrollo de aplicaciones web completas
