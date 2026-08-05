@@ -142,7 +142,7 @@ Simulador inmersivo para prácticas de laboratorio desarrollado en entorno de re
 ## Idiomas
 
 - **Español:** Nativo
-- **Inglés:** Avanzado (b1)
+- **Inglés:** Medio (b1)
 ---
 ## En lo que me enfoco
 
