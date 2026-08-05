@@ -43,7 +43,7 @@ He trabajado en proyectos relacionados con:
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Backend
 <p>
