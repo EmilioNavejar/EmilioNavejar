@@ -1,6 +1,6 @@
-<<div align="center">
+<div align="center">
 
-<img src="assets/foto-perfil.jpg" width="180" alt="Foto de Jesus Emilio Navejar Carrillo" />
+<img src="assets/foto.jpg" width="180" alt="Foto de Jesus Emilio Navejar Carrillo" />
 
 # ¡Hola! Soy Jesus Emilio Navejar Carrillo 👋
 
